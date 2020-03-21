@@ -1,5 +1,8 @@
-# Smart-PhotoFram
+# Smart-PhotoFrame-Gift
+# ST3577 1.8 inch TFT Spi Lcd + Arduino + Button + Battery pack
+# Any Size of Lcd with ST3577 driver will work just change photo size and code accordingly
 # Best Gift For Your Loved One With Normal Photos And Access-able Secret Space For Personal Photos 
+# CODE included : 26 normal and 24 private photos auto rotate mode 
 
 # DIsplay Sd Card Pins:
 
@@ -39,3 +42,4 @@
 # hight    : 160
 # bit rate : 24
 # format   : bmp
+# video tutorial may come later.May Be Developer is Lazy or Busy
